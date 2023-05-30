@@ -5,11 +5,6 @@
 #data source: https://www.kaggle.com/mlg-ulb/creditcardfraud
 ###################
 
-
-###############
-#First do some prep: import libraries and data, isolate the holdout
-################
-
 #Import some libraries
 import pandas as pd
 from tpot import TPOTClassifier
