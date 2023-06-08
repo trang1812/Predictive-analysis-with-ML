@@ -3,7 +3,7 @@
 #   The script illustrates how tpot searches, how computationally intensive auto-ml is,
 #   and how to use resampling in conjunction with auto-ml.
 #data source: https://www.kaggle.com/mlg-ulb/creditcardfraud
-###################
+#################
 
 #Import some libraries
 import pandas as pd
